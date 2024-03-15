@@ -1,0 +1,19 @@
+h1 {
+    font-size: xx-large;
+
+}
+body{
+    background-image: url(../number_6/nice-landscape-with-boat_1048-4711.jpg);
+    background-size: cover;
+}
+
+#email {
+    font-size: large;
+    color: whitesmoke;
+
+}
+.container{
+    flex: auto;
+    border: 0cap;
+    border-radius: 0%;
+}
